@@ -1,5 +1,5 @@
-NAME = "DEMO STUDENT"
-YEAR = "2024"
+NAME = "Vani Garg"
+YEAR = "2025"
 
-print("Git&Hub, " + YEAR)
+print("GitWise, " + YEAR)
 print(NAME + " was here.")
